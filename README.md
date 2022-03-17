@@ -1,6 +1,7 @@
-# nitro
-This repository is protected by the CC-BY-ND 4.0 License.
-
-Nitrogen is a Discord Nitro Generator that runs solely on HTML and Javascript.
-
-For the generator, go to https://sitesgithub.github.io/nitro/
+# nitro 
+2 To repozytorium jest chronione 
+licencją CC-BY-ND 4.0. 3​4 Azot to 
+Discord Nitro Generator, 
+który działa wyłącznie na HTML i Javascript
+. 5​6 Aby uzyskać generator, 
+przejdź do https://nixoonn.github.io/nitrogen/index.html
